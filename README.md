@@ -35,15 +35,17 @@ I am a Computer Science student at **Rutgers University** (Expected May 2026) wi
 
 ---
 
+)을 지워주세요! 
 ### 📈 GitHub Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dongwook-won&show_icons=true&theme=radical" alt="Dongwook's GitHub Stats" />
 </div>
+-->
 
 ---
 
 ### 📫 Let's Connect!
 
 - **LinkedIn:** [linkedin.com/in/dongwook-won](https://www.linkedin.com/in/dongwook-won)
-- **Email:** kks710kr@gmail.com 
+- **Email:** kks710kr@gmail.com
