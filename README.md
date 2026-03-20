@@ -2,7 +2,7 @@
 
 ### 💻 Aspiring AI & Software Engineer 
 
-I am a Computer Science student at **Rutgers University** (Expected May 2026) with a passion for Artificial Intelligence, Machine Learning, and backend system architecture. I love solving complex problems using data structures and building production-ready systems.
+I am a Computer Science student at **Rutgers University** with a passion for Artificial Intelligence, Machine Learning, and backend system architecture. I love solving complex problems using data structures and building production-ready systems.
 
 - 🎓 **Education:** B.S. in Computer Science at Rutgers University (Major GPA: 3.93)
 - 🔬 **Currently Working On:** Research intern under Prof. Metaxas, building a RAG (Retrieval-Augmented Generation) system with LangChain for a PubMed knowledge database.
