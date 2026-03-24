@@ -1,6 +1,6 @@
-# Hi there, I'm Dongwook Won 👋
+# Hello, This is Dongwook Won 👋
 
-### 💻 Aspiring AI & Software Engineer 
+### 💻 AI Engineer & Software Engineer 
 
 I am a Computer Science student at **Rutgers University** with a passion for Artificial Intelligence, Machine Learning, and backend system architecture. I love solving complex problems using data structures and building production-ready systems.
 
